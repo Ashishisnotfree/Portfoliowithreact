@@ -1,7 +1,9 @@
 @import "../../global.scss";
 
 .intro {
-  background-color: black;
+  background:url("../../../public/assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   margin-top: 7rem;
   

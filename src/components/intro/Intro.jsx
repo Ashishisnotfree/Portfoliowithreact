@@ -18,9 +18,7 @@ export default function Intro() {
 
   return (
     <>
-    <div id="background">
-    <img src="assets/background.png" className="asset" alt="" />
-    </div>
+   
     <div className="intro" id="intro">
       <div className="left">
           <h2>Hey There, I'm ~</h2>
